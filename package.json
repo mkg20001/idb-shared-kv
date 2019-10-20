@@ -17,5 +17,14 @@
   "license": "MPL-2.0",
   "dependencies": {
     "idb": "^4.0.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/idb-shared-kv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkg20001/idb-shared-kv/issues"
+  },
+  "homepage": "https://github.com/mkg20001/idb-shared-kv#readme"
 }
