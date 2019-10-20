@@ -122,3 +122,6 @@ module.exports = async (storeName, batchInterval) => {
   await global[SYM]
   return global[SYM].getKV(storeName, batchInterval)
 }
+
+module.exports.kv = kv
+module.exports.batch = batchedKV
