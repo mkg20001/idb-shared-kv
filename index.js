@@ -22,7 +22,7 @@ async keys() {
 };
 */
 
-async function batchedKV (db, storeName, batchInterval) {
+function batchedKV (db, storeName, batchInterval) {
   const batch = []
 
   async function runBatch () {
