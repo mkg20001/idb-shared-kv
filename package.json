@@ -1,6 +1,6 @@
 {
   "name": "idb-shared-kv",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shared (using same DB) IndexDB key-value store",
   "main": "index.js",
   "scripts": {
