@@ -1,0 +1,21 @@
+{
+  "name": "idb-shared-kv",
+  "version": "0.0.1",
+  "description": "Shared (using same DB) IndexDB key-value store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indexdb",
+    "key",
+    "value",
+    "store",
+    "shared"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "idb": "^4.0.5"
+  }
+}
